@@ -1,0 +1,5 @@
+Skill_ID,Provider_Name,Category,Skill_Name,Price_Rs,Area,Is_Available
+1,Nadeem Ahmed,Other,Programming-Data Science,1000.0,Ghotki,true
+2,Ali,Education,Math Tutor,500.0,ghotki,true
+3,Nadeem,Education,Programming tutor,2000.0,Karachi,true
+4,Nadeem Ahmed,Technology,Python Programming,800.0,Ghotki,true
