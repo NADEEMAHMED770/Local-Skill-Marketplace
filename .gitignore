@@ -1,0 +1,22 @@
+# Java compiled output
+*.class
+out/
+target/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Generated reports (keep folder, ignore generated content if you want)
+# reports/*.csv
