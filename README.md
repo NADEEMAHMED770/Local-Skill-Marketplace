@@ -43,7 +43,7 @@ A fully functional, object-oriented **desktop application** built with **Java Sw
 </p>
 
 <p align="center">
-  <img src="images/DASHBOARD.png" width="800" alt="Main Dashboard">
+  <img src="images/DESHBOARD.png" width="800" alt="Main Dashboard">
 </p>
 
 ### 🗂️ Managing the Marketplace
